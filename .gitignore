@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+build/
+
+# Optional: tsconfig build cache
+tsconfig.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# NPM/Yarn/PNPM lock files (optional if you're using only one)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
